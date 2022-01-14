@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "259496398837",
+    "project_id": "shanyadelivery",
+    "storage_bucket": "shanyadelivery.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259496398837:android:9b595248442ed7167e1abc",
+        "android_client_info": {
+          "package_name": "com.login_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "259496398837-36urtail5fsukpnn37c3g8c40cvauh6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3cvN8ZhS0C5PB2GaBQYZZ5SceY149bhk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "259496398837-36urtail5fsukpnn37c3g8c40cvauh6g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
